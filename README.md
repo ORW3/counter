@@ -1,6 +1,6 @@
-# counter
+# Contador
 
-A new Flutter project.
+![image](https://github.com/ORW3/counter/assets/109442031/de413ed4-2c7d-44b2-8020-14edb01ed4a7)
 
 ## Getting Started
 
